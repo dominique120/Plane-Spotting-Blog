@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ISIL_PRACTICA_JAVAWEB_DVERELLEN:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ISIL_PRACTICA_JAVAWEB_DVERELLEN_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ISIL_PRACTICA_JAVAWEB_DVERELLEN/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ISIL_PRACTICA_JAVAWEB_DVERELLEN" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
